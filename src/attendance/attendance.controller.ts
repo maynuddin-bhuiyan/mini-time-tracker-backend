@@ -43,5 +43,3 @@ export class AttendanceController {
     return this.attendanceService.getAllAttendance();
   }
 }
-
-
